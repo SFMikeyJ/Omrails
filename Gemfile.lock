@@ -46,7 +46,11 @@ GEM
     jquery-rails (2.2.1)
       railties (>= 3.0, < 5.0)
       thor (>= 0.14, < 2.0)
+<<<<<<< HEAD
     json (1.8.0)
+=======
+    json (1.7.7)
+>>>>>>> 4e58cd2bdcc21faa914e6677c70c6ec6b520803c
     mail (2.4.4)
       i18n (>= 0.4.0)
       mime-types (~> 1.16)
@@ -79,7 +83,11 @@ GEM
     rake (10.0.4)
     rdoc (3.12.2)
       json (~> 1.4)
+<<<<<<< HEAD
     sass (3.2.9)
+=======
+    sass (3.2.8)
+>>>>>>> 4e58cd2bdcc21faa914e6677c70c6ec6b520803c
     sass-rails (3.2.6)
       railties (~> 3.2.0)
       sass (>= 3.1.10)
